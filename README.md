@@ -25,12 +25,15 @@
 4. Скомпилируйте и запустите каждый скрипт по отдельности:
 
 javac MathOperations.java
+
 java MathOperations
 
 bash
 javac StringComparison.java 
+
 java StringComparison
 
 bash
 javac EvenNumbersArray.java
+
 java EvenNumbersArray
