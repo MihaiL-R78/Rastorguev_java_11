@@ -26,8 +26,8 @@
 
 ## 1
 <div style="background-color: black; color: white;">
- javac MathOperations.java
- java MathOperations
+ *javac MathOperations.java
+ *java MathOperations
 </div>
 
  ## 2
