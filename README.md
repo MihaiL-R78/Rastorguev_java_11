@@ -25,9 +25,10 @@
 4. Скомпилируйте и запустите каждый скрипт по отдельности:
 
 ## 1
-* javac MathOperations.java
-
-* java MathOperations
+<div style="background-color: black; color: white;">
+ javac MathOperations.java
+ java MathOperations
+</div>
 
  ## 2
 * javac StringComparison.java 
