@@ -24,7 +24,7 @@
 3. Откройте терминал или командную строку и перейдите в директорию с файлами скриптов.
 4. Скомпилируйте и запустите каждый скрипт по отдельности:
 
-## 1
+## 1 MathOperations.java
 
 ```
  javac MathOperations.java
@@ -32,14 +32,14 @@
  java MathOperations
 ```
 
- ## 2
+ ## 2 StringComparison.java
 ```
 * javac StringComparison.java 
 
 * java StringComparison
 ```
 
-## 3
+## 3 EvenNumbersArray.java
 ```
 * javac EvenNumbersArray.java
 
