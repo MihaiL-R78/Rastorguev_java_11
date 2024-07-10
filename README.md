@@ -25,18 +25,23 @@
 4. Скомпилируйте и запустите каждый скрипт по отдельности:
 
 ## 1
-<div style="background-color: black; color: white;">
+
+```
  javac MathOperations.java
- 
+
  java MathOperations
-</div>
+```
 
  ## 2
+```
 * javac StringComparison.java 
 
 * java StringComparison
+```
 
 ## 3
+```
 * javac EvenNumbersArray.java
 
 * java EvenNumbersArray
+```
